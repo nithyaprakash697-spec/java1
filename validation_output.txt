@@ -1,0 +1,35 @@
+No data file found (/tmp/demo2.csv). Starting with an empty list.
+
+=== STUDENT INFORMATION SYSTEM ===
+1. Add New Student
+2. View All Students
+3. Search Student (by ID or Name)
+4. Update Student
+5. Delete Student
+6. Show Statistics
+7. Save Data
+8. Save and Exit
+Enter your choice: 
+=== ADD NEW STUDENT ===
+Enter Student ID (e.g. S001): Enter Name:   [X] Name must be 2-50 characters and start with a letter.
+Enter Name:   [X] Name must be 2-50 characters and start with a letter.
+Enter Name:   [X] Name must be 2-50 characters and start with a letter.
+Enter Name: Enter Age:   [X] Please enter a number from 1 to 120.
+Enter Age:   [X] That is not a whole number. Please try again.
+Enter Age:   [X] Please enter a number from 1 to 120.
+Enter Age: Enter Grade (0-100):   [X] Please enter a number from 0.0 to 100.0.
+Enter Grade (0-100): Enter Contact (email or phone):   [X] Enter a valid email or a phone number (7-15 digits).
+Enter Contact (email or phone): [OK] Student added successfully!
+
+=== STUDENT INFORMATION SYSTEM ===
+1. Add New Student
+2. View All Students
+3. Search Student (by ID or Name)
+4. Update Student
+5. Delete Student
+6. Show Statistics
+7. Save Data
+8. Save and Exit
+Enter your choice: [SAVED] Data saved to /tmp/demo2.csv
+
+Thank you for using the Student Information System!
